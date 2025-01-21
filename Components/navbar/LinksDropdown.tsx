@@ -4,7 +4,7 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
   DropdownMenuSeparator,
-} from '@/Components/ui/dropdown-menu';
+} from "@/components/ui/dropdown-menu";
 import { LuAlignLeft } from 'react-icons/lu';
 import Link from 'next/link';
 import { Button } from '../ui/button';
